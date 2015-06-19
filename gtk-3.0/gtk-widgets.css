@@ -1883,11 +1883,23 @@ GtkInfoBar:last-child,
  * Titlebar *
  ************/
 
+.titlebar:active {
+    background-image: linear-gradient(to bottom, #bcdae8, #a79c97);
+    color:#eee;
+    text-shadow: 1px 1px #394f6a;
+    background-color: @theme;
+    border-radius: 0px;
+    border-bottom: 1px solid;
+    border-color: shade(#111, 1.30);
+    padding: 0px 0px 0px 0px;
+}
+
+
 .titlebar {
 	background-image: linear-gradient(to bottom,
-    #a4c2e8, #4e76a7);
+    #a4c2e8,#5b7ca7 );
     color:#eee;
-    text-shadow: 1px 1px #000;
+    text-shadow: 1px 1px #394f6a;
 	background-color: @theme;
 	border-radius: 0px;
 	border-bottom: 1px solid;

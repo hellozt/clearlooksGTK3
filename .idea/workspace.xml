@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3a1d1e9a-865f-41f3-93fd-3b8294b70fd5" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtk-3.0/gtk-widgets.css" afterPath="$PROJECT_DIR$/gtk-3.0/gtk-widgets.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="fedoratheme.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,7 +47,7 @@
       <file leaf-file-name="gtk-widgets.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gtk-3.0/gtk-widgets.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1962" column="0" selection-start="0" selection-end="46964" vertical-scroll-proportion="3.8888888" vertical-offset="33741" max-vertical-offset="35424">
+            <state line="1882" column="13" selection-start="45775" selection-end="45775" vertical-scroll-proportion="0.24444444" vertical-offset="33777" max-vertical-offset="35640">
               <folding />
             </state>
           </provider>
@@ -80,8 +81,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="106" />
-    <option name="y" value="294" />
+    <option name="x" value="109" />
+    <option name="y" value="162" />
     <option name="width" value="1024" />
     <option name="height" value="558" />
   </component>
@@ -165,7 +166,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="106" y="294" width="1024" height="558" extended-state="0" />
+    <frame x="109" y="162" width="1024" height="558" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -228,7 +229,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gtk-3.0/gtk-widgets.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1962" column="0" selection-start="0" selection-end="46964" vertical-scroll-proportion="3.8888888" vertical-offset="33741" max-vertical-offset="35424">
+        <state line="1882" column="13" selection-start="45775" selection-end="45775" vertical-scroll-proportion="0.24444444" vertical-offset="33777" max-vertical-offset="35640">
           <folding />
         </state>
       </provider>
