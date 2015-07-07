@@ -201,6 +201,8 @@ GtkTreeView.separator,
 	background-position: center;
 }
 
+
+
 /****************
  * Text Entries *
  ****************/
@@ -1883,16 +1885,7 @@ GtkInfoBar:last-child,
  * Titlebar *
  ************/
 
-.titlebar:active {
-    background-image: linear-gradient(to bottom, #bcdae8, #a79c97);
-    color:#eee;
-    text-shadow: 1px 1px #394f6a;
-    background-color: @theme;
-    border-radius: 0px;
-    border-bottom: 1px solid;
-    border-color: shade(#111, 1.30);
-    padding: 0px 0px 0px 0px;
-}
+
 
 
 .titlebar {
@@ -1907,12 +1900,24 @@ GtkInfoBar:last-child,
 	padding: 0px 0px 0px 0px;
 }
 
+.titlebar:hover {
+    background-image: linear-gradient(to bottom, #bcdae8, #a79c97);
+    color:#eee;
+    text-shadow: 1px 1px #394f6a;
+    background-color: @theme;
+    border-radius: 0px;
+    border-bottom: 1px solid;
+    border-color: shade(#111, 1.30);
+    padding: 0px 0px 0px 0px;
+}
+
 .titlebar > * {
 	background: none;
 }
 
 .tiled .titlebar {
 	border-radius: 0;
+    color:white;
 }
 
 .maximized .titlebar {
